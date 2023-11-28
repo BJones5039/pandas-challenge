@@ -46,3 +46,11 @@ Analyze school performance based on school size.
 
 **Scores by School Type**
 Analyze school performance based on school type. 
+
+**Data Overview and Insights**
+
+**Overview**: The dataset contains 15 different schools with a total of 39,170 students. The overall budget for all of these schools is about $24.65 million. On average these students score about 78 in math and 81 in reading. Overall 65% percent of this students are passing both subjects with at least a 70 or higher.
+
+**Insight #1**- Schools with the lowest spending budgets per student tend to have the largest amount of students that passing both subjects overall with a 90% passing rate of a 70 or higher. Where as schools with the largest per student budget had the lowest overall passing at 53%.
+
+**Insight #2** - Charter shcools has the highest scores and passing percentage scores when compared to District type schools.
