@@ -59,4 +59,4 @@ Analyze school performance based on school type.
 
 **Insight #2** - Charter shcools has the highest scores and passing percentage scores when compared to District type schools.
 
-Please note assistance has been received through from Tutors via TA assistance during Office Hours, AskBCS Learning Assistants, and follow classmates via Slack.
+Please note assistance has been received from Tutors via TA assistance during Office Hours, AskBCS Learning Assistants, and follow classmates via Slack.
